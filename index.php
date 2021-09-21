@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset=utf-8>
-<title>Inscripcion</title>
+<title>Registros</title>
 
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
